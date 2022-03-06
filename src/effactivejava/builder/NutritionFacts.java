@@ -1,4 +1,4 @@
-package effactivejava.pizza;
+package effactivejava.builder;
 
 
 public class NutritionFacts {

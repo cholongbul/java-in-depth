@@ -1,4 +1,4 @@
-import effactivejava.pizza.NutritionFacts;
+import effactivejava.builder.NutritionFacts;
 
 public class Main {
     public static void main(String[] args) {

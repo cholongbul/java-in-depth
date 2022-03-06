@@ -1,4 +1,4 @@
-package effactivejava.pizza;
+package effactivejava.builder;
 
 import java.util.EnumSet;
 import java.util.Objects;
